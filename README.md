@@ -3,6 +3,8 @@ Creates a dashboard to perform several different regression analyses using R Shi
 
 Note: Following the guidance of the Notre Dame Athletic Department and Department of ACMS, the datasets for these projects will be held private.
 
+Purpose: The purpose of this dashboard is to identify training and condition metrics that are most correlated with on-field success for numerous different sports. The dashboard connects Notre Dame's strength & conditioning coaches to their data by taking simple inputs from the coaches and returning easy-to-read insights into their data. Coaches are able to find correlations between training metrics of their players that were not previously understood with this dashboard.
+
 Features:
 
 1. GPS Data Batch Regression
