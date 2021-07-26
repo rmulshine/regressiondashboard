@@ -1,8 +1,4 @@
 # regressiondashboard
-Creates a dashboard to perform several different regression analyses using R Shiny.
-
-Note: Following the guidance of the Notre Dame Athletic Department and Department of ACMS, the datasets for these projects will be held private.
-
 Purpose: The purpose of this dashboard is to identify training and condition metrics that are most correlated with on-field success for numerous different sports. The dashboard connects Notre Dame's strength & conditioning coaches to their data by taking simple inputs from the coaches and returning easy-to-read insights into their data. Coaches are able to find correlations between training metrics of their players that were not previously understood with this dashboard.
 
 Features:
@@ -25,3 +21,6 @@ The simple linear regression feature for the GPS data contains 2 datasets. The u
 4. Force Plate Data Batch Regression
 
 The batch regression feature for the Force Plate data has the same attributes and outputs as the GPS Data Batch Regression feature, except it is localized to one specific dataset, rather than having the user choose between 2 datasets.
+
+
+Note: Following the guidance of the Notre Dame Athletic Department and Department of ACMS, the datasets for these projects will be held private.
