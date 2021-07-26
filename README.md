@@ -1,5 +1,6 @@
 # regressiondashboard
-Purpose: The purpose of this dashboard is to identify training and condition metrics that are most correlated with on-field success for numerous different sports. The dashboard connects Notre Dame's strength & conditioning coaches to their data by taking simple inputs from the coaches and returning easy-to-read insights into their data. Coaches are able to find correlations between training metrics of their players that were not previously understood with this dashboard.
+Purpose:
+The purpose of this dashboard is to identify training and condition metrics that are most correlated with on-field success for numerous different sports. The dashboard connects Notre Dame's strength & conditioning coaches to their data by taking simple inputs from the coaches and returning easy-to-read insights into their data. Coaches are able to find correlations between training metrics of their players that were not previously understood with this dashboard.
 
 Features:
 
