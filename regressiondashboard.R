@@ -292,7 +292,6 @@ server <- function(input, output, session) {
         paste(input$ycolsimple, "=", paste(round(coeffs3()[1], 2), paste(round(coeffs3()[-1], 2), names(coeffs3()[-1]), sep = "*", collapse = " + "), sep = " + "))
       )
     })
-    
     output$resultsimple <- renderUI({
       withMathJax(
         br(),
